@@ -1,9 +1,9 @@
 # Note app
 
-This a note app created from React using the materials followed from Scrimba website learning React
-- Use React MDE to made simple note
-- Use Firebase as Database to store data at real time
-- Use debouncing to delay response send to database
+This is a note app created from React using the materials followed from the Scrimba website learning React
+- Use React MDE to make simple note
+- Use Firebase as a Database to store data in real-time
+- Use debouncing to delay the response send to the database
 - Use Vite (?) 
 
 
